@@ -1,7 +1,7 @@
 # NetCoreWebApiTemplate
 <img src="https://arqueror.blob.core.windows.net/publicfiles/Icon.ico" width="144">   
 
-.Net Core WebApi Template with Multiple Database Providers
+.Net 6 WebApi Template with Multiple Database Providers
 - Postgre
 - SQLServer
 - SQLite
@@ -10,3 +10,4 @@
 It also implements Swagger, API Versioning,Refit, Fusillade and Polly.
 
 
+**Happy coding! :sparkles: :camel: :boom:**
